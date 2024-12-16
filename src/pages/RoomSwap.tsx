@@ -120,7 +120,7 @@ const RoomSwap = () => {
       desiredLocation: "College District",
       duration: "3 months (April - June)",
       reason: "Looking for a place closer to campus",
-      contact: "john.doe@email.com",
+      contact: "sanjaynalamasa07@gmail.com",
       image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
     },
     {
